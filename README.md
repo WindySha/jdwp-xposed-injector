@@ -31,3 +31,4 @@ Comming so...
 1. [xposed_module_loader](https://github.com/WindySha/xposed_module_loader)
 2. [jdwp-shellifier](https://github.com/IOActive/jdwp-shellifier)
 3. [SandHook](https://github.com/asLody/SandHook)
+4. [XposedModuleSample](https://github.com/WindySha/XposedModuleSample)
