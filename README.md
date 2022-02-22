@@ -26,7 +26,7 @@ The proejct XposedModuleSample includes using xposed api to hook java methods an
 1. In some cases, the injection command may excute failed, if this happened, try it again.
 
 ## How it works
-Comming so...
+[一种基于JDWP动态注入代码的方案](https://windysha.github.io/2022/02/19/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8EJDWP%E5%8A%A8%E6%80%81%E6%B3%A8%E5%85%A5%E4%BB%A3%E7%A0%81%E7%9A%84%E6%96%B9%E6%A1%88/)
 ## Thanks
 1. [xposed_module_loader](https://github.com/WindySha/xposed_module_loader)
 2. [jdwp-shellifier](https://github.com/IOActive/jdwp-shellifier)
